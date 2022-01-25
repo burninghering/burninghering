@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Kim hyerin!
-- 🌱 I’m currently learning JAVA / SPRING BOOT / PYTHON
+- 🌱 I’m currently learning Java / Spring Boot / Python
 <!--
 **burninghering/burninghering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
